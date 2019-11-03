@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="name">Your Name</string>
+    <string name="weight">Your Weight (in KG)</string>
+    <string name="height">Your Height (in CM)</string>
+    <string name="submitButton">Submit</string>
+    <string name="resetButton">Reset</string>
+    <string name="stringResult">your BMI result is</string>
+    <string name="underweight">You is underweight, you must eat more.</string>
+    <string name="normal">Congratulation, your BMI is normal keep it on.</string>
+    <string name="overweight">You is overweight, you must decrease your weight.</string>
+    <string name="pictureDesc">This is a picture that show ur BMI result.</string>
+</resources>
